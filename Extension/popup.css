@@ -1,0 +1,23 @@
+/* Styles for the popup */
+body {
+    font-family: Arial, sans-serif;
+    width: 200px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 14px;
+}
+
+/* Styles for injected ratings */
+.movie-ratings {
+    font-size: 14px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 5px;
+    margin-top: 10px;
+}
